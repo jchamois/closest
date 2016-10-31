@@ -1,0 +1,27 @@
+{
+  "name": "element-closest",
+  "description": "Return the closest element matching a selector up the DOM tree",
+  "main": "element-closest.js",
+  "authors": [
+    "Jonathan Neal <jonathantneal@hotmail.com> (http://jonathantneal.com)"
+  ],
+  "license": "CC0-1.0",
+  "keywords": [
+    "polyfill",
+    "dom",
+    "document",
+    "element",
+    "closest",
+    "matches",
+    "standard",
+    "specification"
+  ],
+  "homepage": "https://github.com/jchamois/closest",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
